@@ -25,7 +25,7 @@ Originally created for a freelance task to extract channels for auto-content pro
 🧠 Smart HTML parsing fallback when API is not available
 
 🛠 Installation
-git clone https://github.com/YOUR_USERNAME/youtube-channel-scraper.git
+git clone https://github.com/Ansar667/youtube-channel-scraper.git
 cd youtube-channel-scraper
 pip install -r requirements.txt
 
